@@ -18,6 +18,6 @@ public class Square extends Shape {
     @Override
     public double perimeter() {
         // TODO: Implement the method
-        return 0;
+        return side*4;
     }
 }
